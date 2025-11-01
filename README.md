@@ -1,4 +1,4 @@
-# some stuff about this project
+# some stuff about this project (note this folder looks more readable in code format)
 ## it uses express@5
 ## you need to have mysql installed
 I installed mysql 9.5 from   <a href="https://dev.mysql.com/downloads/mysql/?platform&os=3">here</a>
